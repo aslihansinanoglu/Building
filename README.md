@@ -21,4 +21,5 @@ Bootstrap</b>
 
 #LIVE DEMO
 
-![](edu.gif)# Building
+![](building.gif)# Building
+
