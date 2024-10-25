@@ -2,9 +2,7 @@
 
 <h4>This is a basic building site project, where the skeleton is built with HTML and styled with CSS, utilizing the Bootstrap framework
 
-
 for additional responsiveness and layout options. The primary focus of the project is to enhance user comfort and create a clean, 
-
 
 user-friendly interface.</h4>
 
@@ -22,16 +20,13 @@ across different devices and screen sizes.</h4>
 
 <h4><b>User-Friendly Design:</b>  The main goal is to provide a comfortable and easy-to-navigate user experience.</h4>
 
-<h1>Technologies Used:</h1>
+<h1>Technologies Used:</h1><b>
 
-
-<h4>
 HTML
 
 CSS
 
-Bootstrap
-</h4>
+Bootstrap</b>
 
 #LIVE DEMO
 
