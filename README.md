@@ -2,9 +2,7 @@
 
 <h4>This is a basic building site project, where the skeleton is built with HTML and styled with CSS, utilizing the Bootstrap framework
 
-for additional responsiveness and layout options. The primary focus of the project is to enhance user comfort and create a clean, 
-
-user-friendly interface.</h4>
+for additional responsiveness and layout options. The primary focus of the project is to enhance user comfort and create a clean, user-friendly interface.</h4>
 
 <h1>Features:</h1>
 
